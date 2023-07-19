@@ -46,15 +46,18 @@ ul {
     margin: 0;
 }
 li {
+    margin: 0;
+    padding: 0;
     display: inline;
     color: white;
     text-align: center;
     font-size: 125%;
 }
 a {
-    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
     display:inline;
 }
 a:hover {
-background-color: brown;
+    background-color: brown;
 }
